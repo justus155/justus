@@ -1,0 +1,47 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+table{
+    border: solid ;
+
+}
+tr{
+    border: solid;
+}
+h2{
+    font-size: 30px;
+    text-align-last: center
+    ;
+}
+h3{
+    font-size: 30px;
+    text-align:center;
+}
+
+table{
+    width: 400px;
+    
+}
+
+th{
+    text-align: left;
+}
+
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 10px;
+}
+th ,caption{
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #fff;
+}
+tr:nth-child(0dd) {
+    background-color: #ddd;
+}
